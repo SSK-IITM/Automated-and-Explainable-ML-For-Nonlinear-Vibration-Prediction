@@ -2,17 +2,40 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18509918.svg)](https://doi.org/10.5281/zenodo.18509918)
 
+[Link to Research paper](https://doi.org/10.1016/j.istruc.2026.111358)
+
 This repository offers code and data for predicting nonlinear vibration response in bio-inspired composite plates using an automated, interpretable machine learning workflow.
 The research paper associated with this repository is as follows:
 
 **Automated and Explainable Machine Learning for Accelerating Nonlinear Vibration Prediction in Bioinspired Helicoidal Laminated Composite Structures**.
 Shubham Saurabh, Shakti Prasad Padhy, Vu Ngoc Viet Hoang, Raj Kiran, Vishal Singh Chauhan.
-
-_This paper is currently under review in Structures._
+_Structures, 86, 111358 (2025)._
 
 ## **Cite us**
 
 If you used the database or the codes for your research, please consider citing this GitHub repository and our related published work:
+
+### Research paper citation
+
+```
+@article{SAURABH2026111358,
+  author       = {Shubham Saurabh and
+                  Shakti Prasad Padhy and
+                  Vu Ngoc {Viet Hoang} and
+                  Raj Kiran and
+                  Vishal Singh Chauhan},
+  title        = {{Automated and explainable machine learning
+                   for accelerating nonlinear vibration prediction
+                   in bioinspired helicoidal laminated composite structures
+                  }},
+  journal      = {Structures},
+  year         = {2026},
+  volume       = {86},
+  mon          = {April},
+  pages        = {111358},
+  doi          = {https://doi.org/10.1016/j.istruc.2026.111358},
+} 
+```
 
 ### GitHub repository citation
 
